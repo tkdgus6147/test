@@ -11,5 +11,7 @@ int main(){
     printf("test33333333\n");
 >>>>>>> origin/test
 
+    printf("test112233\n");
+
     return 0;
 }
