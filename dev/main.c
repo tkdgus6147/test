@@ -11,7 +11,12 @@ int main(){
     printf("test33333333\n");
 >>>>>>> origin/test
 
+<<<<<<< HEAD
+    printf("test444444\n");
+
+=======
     printf("test112233\n");
+>>>>>>> origin/main
 
     return 0;
 }
